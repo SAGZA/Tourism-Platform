@@ -1,4 +1,5 @@
-It looks like you have a comprehensive outline for your tourism platform project, but the formatting seems to be a bit jumbled. Here’s a clearer version of your project structure and the content, formatted correctly for a GitHub README file:
+It looks like you have a comprehensive outline for your tourism platform project, but the formatting seems to be a bit jumbled. Here’s a clearer version of your project structure and the content, formatted correctly for a GitHub README file: 
+eval(), new Function(), setTimeout([string], ...) and setInterval([string], ...)
 
 ```markdown
 # Tourism Platform
